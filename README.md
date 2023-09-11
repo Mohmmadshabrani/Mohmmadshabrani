@@ -60,7 +60,7 @@
 <p align="center">
     <a href="https://github.com/Mohmmadshabrani">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmmadshabrani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+            src="https://github-readme-streak-stats.herokuapp.com?user=Mohmmadshabrani&theme=dark&hide_border=true" />
     </a>
 </p>
 <p align="center">
