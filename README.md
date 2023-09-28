@@ -29,9 +29,7 @@
 - 📫 How to reach me
  **m7madsh206@gmail.com**
 
-- 🌏 Visit to my <a href="https://mohmmadshabrani.github.io/Portfolio/">Portfolio</a>
-
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Mohmmadshabrani)
+- 🌏 Visit to my <a href="https://mohmmadshabrani.github.io/Portfolio">Portfolio</a>
 
 
 <br> 
