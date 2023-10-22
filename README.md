@@ -22,7 +22,7 @@
     
 - 🔭 I’m a **Full Stack Web Development**
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **R**
 
 - 💬 Ask me about **C++, c#, Java, SQL, HTML, CSS, JavaScript, React, laravel, python **
 
