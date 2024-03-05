@@ -8,7 +8,7 @@
 <h4 align='center' >From Aqaba, Jordan </h4>
 <hr>
 <p align="center">
-    <a href="https://www.linkedin.com/in/mohammad-shabrani-bb0036234/" target="_blank"><img align="center"
+    <a href="www.linkedin.com/in/mohammadshabrani" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Mohammad" height="30" width="40" /></a>
     <a href="https://www.instagram.com/m7mad_shabrani/" target="_open"><img align="center"
@@ -29,7 +29,7 @@
 - 📫 How to reach me
  **m7madsh206@gmail.com**
 
-- 🌏 Visit to my <a href="https://mohmmadshabrani.github.io/Portfolio">Portfolio</a>
+- 🌏 Visit to my <a href="https://mohmmadshabrani.github.io/portfolio_2">Portfolio</a>
 
 
 <br> 
